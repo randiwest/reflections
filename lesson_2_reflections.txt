@@ -1,0 +1,2 @@
+How can you use the staging area to make sure you have one commit per logical change?
+    You can easily make multiple commits at the same time if the files were changed to make different logical changes.
