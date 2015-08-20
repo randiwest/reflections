@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  When you work in teams or use multiple devices.  I personally regularly use 3 computers and would like to stop emailing zip files containing my projects.
